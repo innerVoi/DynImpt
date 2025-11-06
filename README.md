@@ -1,6 +1,5 @@
 # DynImpt
-Official PyTorch implementation of "[Dynimpt: A dynamic data selection method for improving model training efficiency[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.]([https://example.com](https://ieeexplore.ieee.org/abstract/document/10720684))
-"
+Official PyTorch implementation of [Dynimpt: A dynamic data selection method for improving model training efficiency[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.]([https://example.com](https://ieeexplore.ieee.org/abstract/document/10720684))
 
 **If you use this code/data in your research, please cite our work:**
 ```bibtex
